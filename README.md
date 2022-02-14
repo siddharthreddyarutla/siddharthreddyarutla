@@ -2,6 +2,8 @@
 ![image title](https://rushter.com/counter.svg)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=siddharthreddyarutla)
+
+![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
 <!--
 **siddharthreddyarutla/siddharthreddyarutla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
