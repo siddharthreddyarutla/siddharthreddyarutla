@@ -4,6 +4,8 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=siddharthreddyarutla)
 
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharthreddyarutla&repo=Youtube adview prediction)
+
 <!--
 **siddharthreddyarutla/siddharthreddyarutla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
