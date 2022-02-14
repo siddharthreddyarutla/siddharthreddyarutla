@@ -8,5 +8,5 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthreddyarutla&langs_count=5&theme=tokyonight)]()
 
-![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/siddharthreddyarutla/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/siddharthreddyarutla/github-stats/blob/master/generated/languages.svg)
