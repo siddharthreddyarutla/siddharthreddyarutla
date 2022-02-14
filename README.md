@@ -1,5 +1,5 @@
 ### Hi there, My name is siddharth :upside_down_face:
-![](https://visitor-badge.laobi.icu/badge?page_id=siddharthreddyarutla.CharalambosIoannou)
+
 ![image title](https://rushter.com/counter.svg)
 
 - 🔭 I’m currently working on ML and wev dev
