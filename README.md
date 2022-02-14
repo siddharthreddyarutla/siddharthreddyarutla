@@ -1,4 +1,5 @@
 ### Hi there, My name is siddharth :upside_down_face:
+![](https://komarev.com/ghpvc/?username=your-github-siddharthreddyarutla&label=PROFILE+VIEWS)
 ![image title](https://rushter.com/counter.svg)
 
 - 🔭 I’m currently working on ML and wev dev
