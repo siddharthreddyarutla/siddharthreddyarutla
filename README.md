@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://camo.githubusercontent.com/0ec43a83dcd50a53a47929032ddce204ce65d11edbb928fea25a62d98345025e/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7068616e693036267374796c653d706c6173746963266c6162656c3d50524f46494c452b5649455753
+
 <!--
 **siddharthreddyarutla/siddharthreddyarutla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
