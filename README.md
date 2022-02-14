@@ -1,5 +1,7 @@
-### Hi there 	U+1F600
+### Hi there 
 ![image title](https://rushter.com/counter.svg)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=siddhartharutla)
 <!--
 **siddharthreddyarutla/siddharthreddyarutla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
