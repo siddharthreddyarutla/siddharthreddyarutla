@@ -1,5 +1,5 @@
 ### Hi there, My name is siddharth :upside_down_face:
-![Profile views](https://gpvc.arturio.dev/siddharthreddyarutla)
+![counter](https://[YOUR_ENDPOINT].m.pipedream.net)
 ![image title](https://rushter.com/counter.svg)
 
 - 🔭 I’m currently working on ML and wev dev
