@@ -1,4 +1,5 @@
-### Hi there :smiley:
+### Hi there :upside_down_face:
+### i'm Siddhrth
 ![image title](https://rushter.com/counter.svg)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=siddharthreddyarutla)
