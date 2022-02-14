@@ -1,6 +1,6 @@
 ### Hi there, My name is siddharth :upside_down_face:
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=yellow)
+![](https://komarev.com/ghpvc/?username=your-github-siddharthreddyarutla&color=yellow)
 
 - 🔭 I’m currently working on ML and wev dev
 
