@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 	U+1F600
 ![image title](https://rushter.com/counter.svg)
 <!--
 **siddharthreddyarutla/siddharthreddyarutla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
