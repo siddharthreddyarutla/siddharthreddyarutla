@@ -1,5 +1,5 @@
 ### Hi there, My name is siddharth :upside_down_face:
-![counter](https://[YOUR_ENDPOINT].m.pipedream.net)
+[![GitHub Views](https://komarev.com/ghpvc/?username=siddharthreddyarutla&color=FAC151)][1]
 ![image title](https://rushter.com/counter.svg)
 
 - 🔭 I’m currently working on ML and wev dev
