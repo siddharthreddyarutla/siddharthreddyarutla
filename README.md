@@ -1,5 +1,5 @@
-### Hi there :upside_down_face:
-### I'm Siddharth
+### Hi there, My name is siddharth :upside_down_face:
+
 ![image title](https://rushter.com/counter.svg)
 
 - 🔭 I’m currently working on ML and wev dev
