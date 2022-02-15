@@ -5,8 +5,6 @@
 - 🔭 I’m currently working on ML and wev dev
 <br>
 
-<br />
-
 ## 🧰 Languages and Tools:
 
    ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
