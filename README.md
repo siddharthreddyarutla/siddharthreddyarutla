@@ -8,7 +8,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/arutla-siddharth-reddy/"><img src="https://img.shields.io/badge/-Siddharth reddy-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:phani7671@gmail.com"><img src="https://img.shields.io/badge/-phani7671@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="sidharthreddyarutla@gmail.com"><img src="https://img.shields.io/badge/-sidharthreddyarutla@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/fphani/"><img src="https://img.shields.io/badge/-@fphani-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/telukuntla.phanindhar/"><img src="https://img.shields.io/badge/-@Phanindhar T-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
