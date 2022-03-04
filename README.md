@@ -13,7 +13,6 @@
 <a href="https://www.facebook.com/arutla.siddharthreddy/"><img src="https://img.shields.io/badge/-@siddharth-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
-<br>
 
 ## 🧰 Languages and Tools:
 
