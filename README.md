@@ -2,7 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-siddharthreddyarutla&color=yellow)
 
-- 🔭 I’m currently working on ML and wev dev
+- 🔭 I’m currently working on Full stack development
+- coding enthusiast
 <br>
 
 
